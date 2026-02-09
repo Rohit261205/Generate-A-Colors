@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    
+}
+div {
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto ;
+    background-color: azure;
+}
+button{
+    border: 1px solid  black;
+    background-color: aqua;
+    border-radius: 45% ;
+} 
